@@ -4,7 +4,7 @@ Give review button under each document:
 
 Verify all required documents before proceeding to the Verification Checklist. Click Review on each document and mark its status as Verified
 
-Pending Documents: 5 verified documents: 3
+Pending Documents: 5 verified documents: 3  complete
 
 Changing this file.   branch edit. 
 
